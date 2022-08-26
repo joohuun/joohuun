@@ -1,8 +1,7 @@
 ### 안녕하세요 김주훈입니다. 👋
 
-### 관심 분야   
-> 
-> <img src="https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-ffffff?style=for-the-badge&logo=FastAPI"> 
+### 관심 분야    
+<img src="https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-ffffff?style=for-the-badge&logo=FastAPI"> 
 
 ### [포트폴리오](https://github.com/joohuun/Portfolio) 
 
