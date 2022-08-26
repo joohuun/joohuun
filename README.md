@@ -1,4 +1,6 @@
-### Hi there 👋
+### 안녕하세요 김주훈입니다. 👋
+
+### [포트폴리오](https://github.com/joohuun/Portfolio)
 
 <!--
 **joohuun/joohuun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
